@@ -2,7 +2,7 @@
 title: "Flexibilidade Operativa dos Cenários do PDE 2029"
 author: "NTJ TEC Consultoria em engenharia LTDA."
 date: "16 de Janeiro de 2020"
-output: pdf_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}

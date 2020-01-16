@@ -13,15 +13,16 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Introdução
-Teste citação...Bla blah bla [@Wang2017].   
+
+Atualmente, as fontes eólica e solar fotovoltaica são as que mais crescem no mundo, impulsionadas pela queda de preço destas fontes, que já competem, em muitos países, com a geração termelétrica. No entanto, a expansão dessas fontes renováveis não despacháveis (FRND) exigirá uma transformação na forma de planejar e operar os sistemas de energia [@Ecofys2015]. Assim, a flexibilidade tornou-se um tópico de pesquisa relevante, em muitos países, como evidenciado pela grande quantidade de trabalhos relacionados à quantificação da flexibilidade de sistemas elétricos [@Wang2017].   
 
 O que é flexibilidade operativa de uma usina?  
 O que é um sistema elétrico flexível?  
-Por que a flexibilidade operativa é uma questão importante?   
-Como a flexibilidade vem sendo estudada no contexto internacional?
+Por que a flexibilidade operativa é uma questão importante?  
+Como a flexibilidade vem sendo estudada no contexto internacional?  
 Como a flexibilidade é analisada no Brasil? Citar o PDE 2029...  
 
-Objetivo: Análise de flexibilidade dos cenários do PDE 2029 utilizando indicadores...
+Objetivo: Análise de flexibilidade dos cenários do PDE 2029 utilizando indicadores...  
 
 
 

@@ -6,12 +6,13 @@ NTJ TEC Consultoria em engenharia LTDA.
 Introdução
 ----------
 
-Teste citação...Bla blah bla (Wang and Hodge 2017).
+Atualmente, as fontes eólica e solar fotovoltaica são as que mais crescem no mundo, impulsionadas pela queda de preço destas fontes, que já competem, em muitos países, com a geração termelétrica. No entanto, a expansão dessas fontes renováveis não despacháveis (FRND) exigirá uma transformação na forma de planejar e operar os sistemas de energia (Ecofys 2015). Assim, a flexibilidade tornou-se um tópico de pesquisa relevante, em muitos países, como evidenciado pela grande quantidade de trabalhos relacionados à quantificação da flexibilidade de sistemas elétricos (Wang and Hodge 2017).
 
 O que é flexibilidade operativa de uma usina?
 O que é um sistema elétrico flexível?
 Por que a flexibilidade operativa é uma questão importante?
-Como a flexibilidade vem sendo estudada no contexto internacional? Como a flexibilidade é analisada no Brasil? Citar o PDE 2029...
+Como a flexibilidade vem sendo estudada no contexto internacional?
+Como a flexibilidade é analisada no Brasil? Citar o PDE 2029...
 
 Objetivo: Análise de flexibilidade dos cenários do PDE 2029 utilizando indicadores...
 
@@ -72,5 +73,7 @@ Oferecer perspectivas de trabalhos futuros
 
 Referências
 -----------
+
+Ecofys. 2015. “Power System Flexibility Strategic Roadmap - Preparing power systems to supply reliable power from variable energy resources.” September. doi:[10.13140/RG.2.1.2972.7208](https://doi.org/10.13140/RG.2.1.2972.7208).
 
 Wang, Qin, and Bri Mathias Hodge. 2017. “Enhancing power system operational flexibility with flexible ramping products: A review.” *IEEE Transactions on Industrial Informatics* 13 (4): 1652–64. doi:[10.1109/TII.2016.2637879](https://doi.org/10.1109/TII.2016.2637879).

@@ -6,6 +6,8 @@ NTJ TEC Consultoria em engenharia LTDA.
 Introdução
 ----------
 
+Teste citação...Bla blah bla (Wang and Hodge 2017).
+
 O que é flexibilidade operativa de uma usina?
 O que é um sistema elétrico flexível?
 Por que a flexibilidade operativa é uma questão importante?
@@ -70,3 +72,5 @@ Oferecer perspectivas de trabalhos futuros
 
 Referências
 -----------
+
+Wang, Qin, and Bri Mathias Hodge. 2017. “Enhancing power system operational flexibility with flexible ramping products: A review.” *IEEE Transactions on Industrial Informatics* 13 (4): 1652–64. doi:[10.1109/TII.2016.2637879](https://doi.org/10.1109/TII.2016.2637879).

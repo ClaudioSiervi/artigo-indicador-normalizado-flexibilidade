@@ -3,6 +3,7 @@ title: "Flexibilidade Operativa dos Cenários do PDE 2029"
 author: "NTJ TEC Consultoria em engenharia LTDA."
 date: "16 de Janeiro de 2020"
 output: github_document
+bibliography: bibliografia.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -10,7 +11,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+
 ## Introdução
+Teste citação...Bla blah bla [@Wang2017].   
 
 O que é flexibilidade operativa de uma usina?  
 O que é um sistema elétrico flexível?  

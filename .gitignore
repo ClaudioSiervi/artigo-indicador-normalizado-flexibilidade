@@ -1,0 +1,25 @@
+#*.pdf
+
+# ignora excel
+*.xls*
+
+~$*.xls*
+
+
+# ignora word
+#*.doc*
+
+~$*.doc*
+
+
+# Registros R
+*.Rout
+
+*.Rhistory 
+
+*.RData
+
+*.log
+
+*.png
+
